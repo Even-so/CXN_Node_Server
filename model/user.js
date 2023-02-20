@@ -30,7 +30,7 @@ const userSchema = new mongoose.Schema({
     introduction: {
         type: String,
         default: null,
-    }, //介绍
+    },
     bio: {
         type: String,
         default: null,
